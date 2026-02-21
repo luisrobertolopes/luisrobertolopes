@@ -59,37 +59,6 @@ Tenho investido pesado em aprendizado contínuo para aprimorar minhas habilidade
 
 ---
 
-### 📁 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ OSINT & Automation Framework</h3>
-      <p align="center"><i>Inteligência em Fontes Abertas</i></p>
-      <p><strong>🛠️ Stack:</strong> Python & Web Scraping.</p>
-      <p><strong>🏗️ Funcionalidades:</strong></p>
-      <ul>
-        <li>Scripts automatizados para coleta de dados públicos.</li>
-        <li>Análise de footprints digitais para auditoria de segurança.</li>
-      </ul>
-      <p align="center"><a href="https://github.com/luisrobertolopes"><strong>[ Ver GitHub ]</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 Full Stack App</h3>
-      <p align="center"><i>Desenvolvimento Web Moderno</i></p>
-      <p><strong>🛠️ Stack:</strong> JS, HTML/CSS & MySQL.</p>
-      <p><strong>🏗️ Funcionalidades:</strong></p>
-      <ul>
-        <li>Interface responsiva e dinâmica.</li>
-        <li>Integração de APIs de terceiros para processamento de dados.</li>
-      </ul>
-      <p align="center"><a href="https://luisrobertolopes.github.io/card/"><strong>[ Ver Projeto ]</strong></a></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🌐 Presença Digital
 <p align="left">
   <a href="https://github.com/luisrobertolopes"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
