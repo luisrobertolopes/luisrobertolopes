@@ -48,10 +48,14 @@
 
 ---
 
-### 🎓 Certificações (Cisco Networking Academy)
-* **CyberOps Associate** – Segurança de Operações Cibernéticas.
-* **Segurança de Rede** – Defesa e Infraestrutura.
-* **Especialista em Python / JS / C#** – Desenvolvimento e Lógica avançada.
+### 📜 Certificações e Formação
+Tenho investido pesado em aprendizado contínuo para aprimorar minhas habilidades técnicas:
+
+* **CyberOps & Segurança de Rede** – Cisco Networking Academy (2023-2024)
+* **Ciência de Dados** – Cisco Networking Academy (2023)
+* **Programação Python** – Formações pela EmpowerData, Learncafe e Enap (2023)
+* **Análise de Dados com Excel** – Enap (2023)
+* **Pacote Office Profissional** – Learncafe (2023)
 
 ---
 
